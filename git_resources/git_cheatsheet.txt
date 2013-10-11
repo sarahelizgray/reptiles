@@ -34,6 +34,7 @@ git stash list
     show me all stashed changes
 git diff filename
 		show me what's changed in this file since last commit
+		to exit the diff view, type q
 
 Manipulating the Timeline
 --------------------------
