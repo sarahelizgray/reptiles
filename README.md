@@ -61,6 +61,7 @@ PART 3 -- merging branches with master
 * what commits appear in the master branch log that weren't there before?
 * look at the remote directory and logs
 * push to the remote repo
+* look at the remote directory and logs
 * what has changed?
 
 EX 3 -- playing with the timeline
