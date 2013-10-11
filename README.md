@@ -29,10 +29,20 @@ PART 2 -- working with new files
 
 Ex 1 -- working with branches
 --------------------------
-PART 1 -- working with new branches
+PART -- working with existing branches
+* from master, switch to the existing alligator branch
+* edit a file called "swims.txt" in the alligator branch
+* commit your changes to your local repo
+* push your changes to the remote repo
+* look at the alligator branch log
+* switch to the master branch
+* look at the master branch log
+* what's the difference?
+
+PART 2 -- working with new branches
 * make a branch locally called tortoise
 * push the local branch up to your remote repo
-* create a file called "lives_on_land..txt" in the tortoise branch.
+* create a file called "lives_on_land.txt" in the tortoise branch
 * commit your changes to your local repo
 * push your changes to the remote repo
 * look at the tortoise branch log
