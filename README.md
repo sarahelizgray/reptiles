@@ -50,3 +50,15 @@ PART 2 -- working with new branches
 * look at the master branch log
 * what's the difference?
 
+PART 3 -- merging branches with master
+--------------------------
+* switch to the master branch if you are not already there
+* look at the master branch log
+* look at directory
+* merge the alligator branch with master
+* look at the directory
+* what files now appear in master?
+* look at the master branch log
+* what commits appear in the master branch log that weren't there before?
+
+
