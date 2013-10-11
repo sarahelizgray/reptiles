@@ -1,4 +1,4 @@
-Git CheatSheet
+Git Cheat Sheet
 ==========================
 
 Clone a Repo

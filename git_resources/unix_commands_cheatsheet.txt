@@ -1,4 +1,4 @@
-Unix Commands CheatSheet
+Unix Commands Cheat Sheet
 ==========================
 
 What Directory AM I In?
