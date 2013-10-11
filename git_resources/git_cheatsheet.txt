@@ -15,7 +15,7 @@ git commit -m “my comment”
     let me make a note about that bundle
     -m -- that’s a flag that says use no editor, use the string
 git push 
-    send it up to the hosting service 
+    send it up to the remote repo
 
 ### Other Helpful Commands
 git status
