@@ -40,6 +40,8 @@ git reset <SHA/Commit ID from log>
 
 Branches
 --------------------------
+git branch
+		what branch am I in?
 git branch -a
     see local and remote branches
 git checkout --track origin/<branch name>
