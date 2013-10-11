@@ -5,8 +5,7 @@ Clone a Repo
 --------------------------
 git clone <repo link from github>
 
-The Basic Idiom
---------------------------
+### The Basic Idiom
 git pull 
     let me see what others have done
     resolve merge conflicts early
@@ -18,8 +17,7 @@ git commit -m “my comment”
 git push 
     send it up to the hosting service 
 
-Other Helpful Commands
---------------------------
+### Other Helpful Commands
 git status
     show me what’s happening right now
 git log
@@ -39,13 +37,11 @@ git diff filename
 		show me what's changed in this file since last commit
 		to exit the diff view, type q
 
-Manipulating the Timeline
---------------------------
+### Manipulating the Timeline
 git log
 git reset <SHA/Commit ID from log>
 
-Branches
---------------------------
+### Branches
 git branch
 		what branch am I in?
 git branch -a
@@ -59,8 +55,7 @@ git push -u origin <branch name>
 git checkout <branch name>
     switch between branches
     
-Merge with Master Idiom
---------------------------
+### Merge with Master Idiom
 git checkout master
     go to master branch
 git merge <branch name>

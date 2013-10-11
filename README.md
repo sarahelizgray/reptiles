@@ -51,7 +51,6 @@ PART 2 -- working with new branches
 * what's the difference?
 
 PART 3 -- merging branches with master
---------------------------
 * switch to the master branch if you are not already there
 * look at the master branch log
 * look at directory
@@ -60,5 +59,23 @@ PART 3 -- merging branches with master
 * what files now appear in master?
 * look at the master branch log
 * what commits appear in the master branch log that weren't there before?
+
+EX3 -- playing with the timeline
+--------------------------
+* in master branch
+* reset to before you merged alligator with master
+* look at the directory
+* what files no longer appear in master?
+* look at the master branch log
+* what commits no longer appear in the master branch log?
+* look on github
+* what commits appear in the master branch log?
+* what files appear in the master branch directory? 
+* pull commits from the remote repo
+* look at the directory
+* what files now appear in master?
+* look at the master branch log
+* what commits appear in the master branch log that weren't there before?
+
 
 
