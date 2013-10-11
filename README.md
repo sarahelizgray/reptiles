@@ -56,9 +56,12 @@ PART 3 -- merging branches with master
 * look at directory
 * merge the alligator branch with master
 * look at the directory
-* what files now appear in master?
+* what files now appear in the master directory?
 * look at the master branch log
 * what commits appear in the master branch log that weren't there before?
+* look at the remote directory and logs
+* push to the remote repo
+* what has changed?
 
 EX 3 -- playing with the timeline
 --------------------------
