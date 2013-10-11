@@ -1,0 +1,29 @@
+Unix Commands CheatSheet
+==========================
+
+What Directory AM I In?
+--------------------------
+pwd
+		short for print working directory
+		
+List Directory Contents
+--------------------------
+ls
+		give me a list of visible file names
+ls -la
+		show me visible and hidden file names, as well as some file details like permissions
+		
+Change Directory 
+--------------------------
+cd ../
+		go up one directory level from my current location
+cd ~/
+		go to my user root directory
+cd /
+		go to my system root directory
+
+MAN Pages
+--------------------------
+man git
+		see help manual for git
+		to exit help manual, type q
