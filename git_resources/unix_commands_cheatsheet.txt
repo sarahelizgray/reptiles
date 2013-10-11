@@ -15,10 +15,12 @@ ls -la
 		
 Change Directory 
 --------------------------
-cd ../
+cd <directory>
+	go down a level into this directory
+cd ..
 		go up one directory level from my current location
 cd ~/
-		go to my user root directory
+		go to my user home directory
 cd /
 		go to my system root directory
 
