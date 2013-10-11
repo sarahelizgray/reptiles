@@ -32,6 +32,8 @@ git stash pop
     apply the last stashed change
 git stash list
     show me all stashed changes
+git diff filename
+		show me what's changed in this file since last commit
 
 Manipulating the Timeline
 --------------------------
