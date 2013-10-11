@@ -22,6 +22,5 @@ cd\
 
 MAN Pages
 --------------------------
-man git
-		see help manual for git
-		to exit help manual, type q
+No easy command on windows. See the linux man page online:
+www.kernel.org/pub/software/scm/git/docs
