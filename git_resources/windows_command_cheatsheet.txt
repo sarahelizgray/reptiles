@@ -1,0 +1,27 @@
+Unix Commands CheatSheet
+==========================
+
+What Directory AM I In?
+--------------------------
+cd
+		short for current directory
+		
+List Directory Contents
+--------------------------
+dir
+		give me a list of visible file names
+		
+Change Directory 
+--------------------------
+cd <directory>
+	go down a level into this directory
+cd ..
+		go up one directory level from my current location
+cd\ 
+		go to my system root directory
+
+MAN Pages
+--------------------------
+man git
+		see help manual for git
+		to exit help manual, type q
