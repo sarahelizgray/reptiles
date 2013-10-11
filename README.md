@@ -60,7 +60,7 @@ PART 3 -- merging branches with master
 * look at the master branch log
 * what commits appear in the master branch log that weren't there before?
 
-EX3 -- playing with the timeline
+EX 3 -- playing with the timeline
 --------------------------
 * in master branch
 * reset to before you merged the alligator branch with master
