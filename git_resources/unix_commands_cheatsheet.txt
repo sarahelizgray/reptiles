@@ -13,7 +13,7 @@ ls
 ls -la
 		show me visible and hidden file names, as well as some file details like permissions
 		
-Change Directory 
+Directorie 
 --------------------------
 cd <directory>
 	go down a level into this directory
@@ -23,6 +23,8 @@ cd ~/
 		go to my user home directory
 cd /
 		go to my system root directory
+mkdir <dir name>
+	make a directory
 
 MAN Pages
 --------------------------
