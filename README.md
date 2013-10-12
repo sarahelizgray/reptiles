@@ -27,9 +27,9 @@ PART 2 -- working with new files
 * look at the master branch log on the remote GitHub Repo
 * what's the difference?
 
-Ex 1 -- working with branches
+Ex 2 -- working with branches
 --------------------------
-PART -- working with existing branches
+PART 1 -- working with existing branches
 * from master, switch to the existing alligator branch
 * edit a file called "swims.txt" in the alligator branch
 * commit your changes to your local repo
