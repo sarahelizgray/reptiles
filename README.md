@@ -1,9 +1,11 @@
 reptiles
 ========
 
+BEFORE YOU START: fork this repo to your GitHub account
+
 Ex 1 -- the basic idiom & knowing the difference between local and remote changes
 --------------------------
-PART1 -- working with existing files
+PART 1 -- working with existing files
 * clone this repo to your local machine
 * look at the master branch log on your local machine
 * open and edit the cold_blooded.txt file on master
