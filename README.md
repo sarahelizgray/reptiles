@@ -1,6 +1,8 @@
 reptiles
 ========
 
+STEP 0: Fork this repo on GitHub so that it appears under your profile.
+
 Ex 1 -- the basic idiom & knowing the difference between local and remote changes
 --------------------------
 PART1 -- working with existing files
