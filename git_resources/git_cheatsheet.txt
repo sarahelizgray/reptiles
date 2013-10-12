@@ -7,35 +7,35 @@ git clone <repo link from github>
 
 ### The Basic Idiom
 git pull 
-		let me see what others have done
-		resolve merge conflicts early
+	let me see what others have done
+	resolve merge conflicts early
 git add <filename>
-		let me bundle some work together
+	let me bundle some work together
 git commit -m "my comment"
-		let me make a note about that bundle
-		-m -- that’s a flag that says use no editor, use the string
+	let me make a note about that bundle
+	-m -- that’s a flag that says use no editor, use the string
 git push 
-		send it up to the remote repo
+	send it up to the remote repo
 
 ### Other Helpful Commands
 git status
-		show me what’s happening right now
+	show me what’s happening right now
 git log
-		show me the timeline
-		to exit the log view, type q
+	show me the timeline
+	to exit the log view, type q
 git log --pretty=oneline
-		show me a simplified log
-		to exit the log view, type q
+	show me a simplified log
+	to exit the log view, type q
 git stash save "note about what I am saving"
-		My current work is not ready to be committed but I want to git pull and see what’s going on with the remote repo
+	My current work is not ready to be committed but I want to git pull and see what’s going on with the remote repo
 git stash pop
-		apply the last stashed change
+	apply the last stashed change
 git stash list
-		show me all stashed changes
-		to exit the diff view, type q
+	show me all stashed changes
+	to exit the diff view, type q
 git diff filename
-		show me what's changed in this file since last commit
-		to exit the diff view, type q
+	show me what's changed in this file since last commit
+	to exit the diff view, type q
 
 ### Manipulating the Timeline
 git log
@@ -43,20 +43,20 @@ git reset <SHA/Commit ID from log>
 
 ### Branches
 git branch
-		what branch am I in?
+	what branch am I in?
 git branch -a
-		see local and remote branches
+	see local and remote branches
 git checkout --track origin/<branch name>
-		get a remote branch onto your local machine
+	get a remote branch onto your local machine
 git branch <branch name>
-		make a new local branch
+	make a new local branch
 git push -u origin <branch name>
-		creates branch on remote 
+	creates branch on remote 
 git checkout <branch name>
-		switch between branches
+	switch between branches
 		
 ### Merge with Master Idiom
 git checkout master
-		go to master branch
+	go to master branch
 git merge <branch name>
-		add changes form <branch name> to master
+	add changes form <branch name> to master
