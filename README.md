@@ -29,7 +29,7 @@ PART 2 -- working with new files
 * look at the master branch log on the remote GitHub Repo
 * what's the difference?
 
-Ex 1 -- working with branches
+Ex 2 -- working with branches
 --------------------------
 PART -- working with existing branches
 * from master, switch to the existing alligator branch
