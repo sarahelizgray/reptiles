@@ -1,4 +1,4 @@
-Unix Commands Cheat Sheet
+Windows Commands Cheat Sheet
 ==========================
 
 What Directory AM I In?
@@ -11,7 +11,7 @@ List Directory Contents
 dir
 		give me a list of visible file names
 		
-Change Directory 
+Directories
 --------------------------
 cd <directory>
 	go down a level into this directory
@@ -19,8 +19,12 @@ cd ..
 		go up one directory level from my current location
 cd\ 
 		go to my system root directory
+mkdir <dir name>
+		make a directory
 
 MAN Pages
 --------------------------
+git help
+
 No easy command on windows. See the linux man page online:
 www.kernel.org/pub/software/scm/git/docs
