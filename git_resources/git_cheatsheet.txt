@@ -6,7 +6,7 @@ Clone a Repo
 git clone <repo link from github>
 
 ### The Basic Idiom
-git pull 
+git pull
 	let me see what others have done
 	resolve merge conflicts early
 git add <filename>
@@ -14,7 +14,7 @@ git add <filename>
 git commit -m "my comment"
 	let me make a note about that bundle
 	-m -- that’s a flag that says use no editor, use the string
-git push 
+git push
 	send it up to the remote repo
 
 ### Other Helpful Commands
@@ -36,10 +36,12 @@ git stash list
 git diff filename
 	show me what's changed in this file since last commit
 	to exit the diff view, type q
+git commit --amend
+	correct typos in commit messages for commits that haven't been pushed
 
 ### Manipulating the Timeline
 git log
-git reset <SHA/Commit ID from log>
+git reset <SHA/Commit ID from log/HEAD@{some number of step back}>
 
 ### Branches
 git branch
@@ -51,10 +53,10 @@ git checkout --track origin/<branch name>
 git branch <branch name>
 	make a new local branch
 git push -u origin <branch name>
-	creates branch on remote 
+	creates branch on remote
 git checkout <branch name>
 	switch between branches
-		
+
 ### Merge with Master Idiom
 git checkout master
 	go to master branch
