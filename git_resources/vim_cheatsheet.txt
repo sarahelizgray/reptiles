@@ -1,0 +1,11 @@
+VIM Cheat Sheet
+==========================
+
+Edit a File
+--------------------------
+i
+
+Close File and Save Changes
+--------------------------
+
+<escape key>:wq
