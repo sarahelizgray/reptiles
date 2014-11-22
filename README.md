@@ -43,6 +43,7 @@ PART 1 -- working with existing branches
 
 PART 2 -- working with new branches
 * make a branch locally called tortoise
+* from master, switch to the tortoise branch
 * push the local branch up to your remote repo
 * create a file called "lives_on_land.txt" in the tortoise branch
 * commit your changes to your local repo
